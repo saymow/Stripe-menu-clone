@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/saymow/Stripe-menu-clone/blob/master/.github/demonstration.gif"/>
 </p>
 
 <br>
